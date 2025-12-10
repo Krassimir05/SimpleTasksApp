@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Simple Tasks</string>
-    <string name="empty_list">Няма задачи. Натисни бутона, за да добавиш първата.</string>
-    <string name="hint_title">Заглавие</string>
-    <string name="hint_description">Описание</string>
-    <string name="label_done">Завършена</string>
-    <string name="action_save">Запази</string>
-    <string name="title_task_detail">Детайли за задача</string>
-</resources>
